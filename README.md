@@ -1,2 +1,2 @@
 # Hello
-I'll start posting projects that make
+I'll start posting projects that make.
